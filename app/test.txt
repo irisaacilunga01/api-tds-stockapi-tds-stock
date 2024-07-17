@@ -1,0 +1,385 @@
+Request {
+  method: 'POST',
+  url: 'http://localhost:3000/api/client',
+  headers: Headers {
+    accept: '*/*',
+    'accept-encoding': 'gzip, deflate',
+    'accept-language': '*',
+    connection: 'keep-alive',
+    'content-length': '35',
+    'content-type': 'application/json',
+    host: 'localhost:3000',
+    'sec-fetch-mode': 'cors',
+    'user-agent': 'node',
+    'x-forwarded-for': '::1',
+    'x-forwarded-host': 'localhost:3000',
+    'x-forwarded-port': '3000',
+    'x-forwarded-proto': 'http'
+  },
+  destination: '',
+  referrer: 'about:client',
+  referrerPolicy: '',
+  mode: 'cors',
+  credentials: 'same-origin',
+  cache: 'default',
+  redirect: 'follow',
+  integrity: '',
+  keepalive: false,
+  isReloadNavigation: false,
+  isHistoryNavigation: false,
+  signal: AbortSignal { aborted: false }
+}
+ POST /api/client 200 in 1064ms
+ GET / 200 in 1333ms
+ GET /favicon.ico 200 in 19ms
+Request {
+  method: 'POST',
+  url: 'http://localhost:3000/api/client',
+  headers: Headers {
+    accept: '*/*',
+    'accept-encoding': 'gzip, deflate',
+    'accept-language': '*',
+    connection: 'keep-alive',
+    'content-length': '35',
+    'content-type': 'application/json',
+    host: 'localhost:3000',
+    'sec-fetch-mode': 'cors',
+    'user-agent': 'node',
+    'x-forwarded-for': '::1',
+    'x-forwarded-host': 'localhost:3000',
+    'x-forwarded-port': '3000',
+    'x-forwarded-proto': 'http'
+  },
+  destination: '',
+  referrer: 'about:client',
+  referrerPolicy: '',
+  mode: 'cors',
+  credentials: 'same-origin',
+  cache: 'default',
+  redirect: 'follow',
+  integrity: '',
+  keepalive: false,
+  isReloadNavigation: false,
+  isHistoryNavigation: false,
+  signal: AbortSignal { aborted: false }
+}
+ POST /api/client 200 in 19ms
+ GET / 200 in 120ms
+ GET /favicon.ico 200 in 9ms
+Request {
+  method: 'POST',
+  url: 'http://localhost:3000/api/client',
+  headers: Headers {
+    accept: '*/*',
+    'accept-encoding': 'gzip, deflate',
+    'accept-language': '*',
+    connection: 'keep-alive',
+    'content-length': '35',
+    'content-type': 'application/json',
+    host: 'localhost:3000',
+    'sec-fetch-mode': 'cors',
+    'user-agent': 'node',
+    'x-forwarded-for': '::1',
+    'x-forwarded-host': 'localhost:3000',
+    'x-forwarded-port': '3000',
+    'x-forwarded-proto': 'http'
+  },
+  destination: '',
+  referrer: 'about:client',
+  referrerPolicy: '',
+  mode: 'cors',
+  credentials: 'same-origin',
+  cache: 'default',
+  redirect: 'follow',
+  integrity: '',
+  keepalive: false,
+  isReloadNavigation: false,
+  isHistoryNavigation: false,
+  signal: AbortSignal { aborted: false }
+}
+ POST /api/client 200 in 14ms
+ GET / 200 in 83ms
+ GET /favicon.ico 200 in 11ms
+Request {
+  method: 'POST',
+  url: 'http://localhost:3000/api/client',
+  headers: Headers {
+    accept: '*/*',
+    'accept-encoding': 'gzip, deflate',
+    'accept-language': '*',
+    connection: 'keep-alive',
+    'content-length': '35',
+    'content-type': 'application/json',
+    host: 'localhost:3000',
+    'sec-fetch-mode': 'cors',
+    'user-agent': 'node',
+    'x-forwarded-for': '::1',
+    'x-forwarded-host': 'localhost:3000',
+    'x-forwarded-port': '3000',
+    'x-forwarded-proto': 'http'
+  },
+  destination: '',
+  referrer: 'about:client',
+  referrerPolicy: '',
+  mode: 'cors',
+  credentials: 'same-origin',
+  cache: 'default',
+  redirect: 'follow',
+  integrity: '',
+  keepalive: false,
+  isReloadNavigation: false,
+  isHistoryNavigation: false,
+  signal: AbortSignal { aborted: false }
+}
+ POST /api/client 200 in 14ms
+ GET / 200 in 72ms
+ GET /favicon.ico 200 in 14ms
+Request {
+  method: 'POST',
+  url: 'http://localhost:3000/api/client',
+  headers: Headers {
+    accept: '*/*',
+    'accept-encoding': 'gzip, deflate',
+    'accept-language': '*',
+    connection: 'keep-alive',
+    'content-length': '35',
+    'content-type': 'application/json',
+    host: 'localhost:3000',
+    'sec-fetch-mode': 'cors',
+    'user-agent': 'node',
+    'x-forwarded-for': '::1',
+    'x-forwarded-host': 'localhost:3000',
+    'x-forwarded-port': '3000',
+    'x-forwarded-proto': 'http'
+  },
+  destination: '',
+  referrer: 'about:client',
+  referrerPolicy: '',
+  mode: 'cors',
+  credentials: 'same-origin',
+  cache: 'default',
+  redirect: 'follow',
+  integrity: '',
+  keepalive: false,
+  isReloadNavigation: false,
+  isHistoryNavigation: false,
+  signal: AbortSignal { aborted: false }
+}
+ POST /api/client 200 in 30ms
+ GET / 200 in 116ms
+ GET /favicon.ico 200 in 15ms
+ ✓ Compiled in 219ms (274 modules)
+ ✓ Compiled /api/client in 182ms (312 modules)
+ POST /api/client 200 in 293ms
+ GET / 200 in 567ms
+ POST /api/client 200 in 54ms
+ ✓ Compiled /favicon.ico in 99ms (340 modules)
+ GET /favicon.ico 200 in 225ms
+ ✓ Compiled in 104ms (340 modules)
+ ✓ Compiled in 178ms (340 modules)
+{ time: '2024-07-17T08:06:17.902Z' }
+ POST /api/client 200 in 305ms
+ ✓ Compiled in 201ms (274 modules)
+ ✓ Compiled in 346ms (274 modules)
+ ✓ Compiled in 82ms (274 modules)
+ ○ Compiling /api/client ...
+ ✓ Compiled /api/client in 538ms (312 modules)
+{
+  res: { time: '2024-07-17T08:11:23.553Z' },
+  request: Request {
+    method: 'PUT',
+    url: 'http://localhost:3000/api/client',
+    headers: Headers {
+      accept: '*/*',
+      'accept-encoding': 'gzip, deflate',
+      'accept-language': '*',
+      connection: 'keep-alive',
+      'content-length': '35',
+      'content-type': 'application/json',
+      host: 'localhost:3000',
+      'sec-fetch-mode': 'cors',
+      'user-agent': 'node',
+      'x-forwarded-for': '::1',
+      'x-forwarded-host': 'localhost:3000',
+      'x-forwarded-port': '3000',
+      'x-forwarded-proto': 'http'
+    },
+    destination: '',
+    referrer: 'about:client',
+    referrerPolicy: '',
+    mode: 'cors',
+    credentials: 'same-origin',
+    cache: 'default',
+    redirect: 'follow',
+    integrity: '',
+    keepalive: false,
+    isReloadNavigation: false,
+    isHistoryNavigation: false,
+    signal: AbortSignal { aborted: false }
+  }
+}
+ PUT /api/client 200 in 679ms
+{
+  res: { time: '2024-07-17T08:11:24.388Z' },
+  request: Request {
+    method: 'PUT',
+    url: 'http://localhost:3000/api/client',
+    headers: Headers {
+      accept: '*/*',
+      'accept-encoding': 'gzip, deflate',
+      'accept-language': '*',
+      connection: 'keep-alive',
+      'content-length': '35',
+      'content-type': 'application/json',
+      host: 'localhost:3000',
+      'sec-fetch-mode': 'cors',
+      'user-agent': 'node',
+      'x-forwarded-for': '::1',
+      'x-forwarded-host': 'localhost:3000',
+      'x-forwarded-port': '3000',
+      'x-forwarded-proto': 'http'
+    },
+    destination: '',
+    referrer: 'about:client',
+    referrerPolicy: '',
+    mode: 'cors',
+    credentials: 'same-origin',
+    cache: 'default',
+    redirect: 'follow',
+    integrity: '',
+    keepalive: false,
+    isReloadNavigation: false,
+    isHistoryNavigation: false,
+    isHistoryNavigation: false,
+    isHistoryNavigation: false,
+    isHistoryNavigation: false,
+    signal: AbortSignal { aborted: false }
+  }
+    isHistoryNavigation: false,
+    signal: AbortSignal { aborted: false }
+  }
+}
+    isHistoryNavigation: false,
+    signal: AbortSignal { aborted: false }
+    isHistoryNavigation: false,
+    signal: AbortSignal { aborted: false }
+  }
+    isHistoryNavigation: false,
+    signal: AbortSignal { aborted: false }
+    isHistoryNavigation: false,
+    isHistoryNavigation: false,
+    signal: AbortSignal { aborted: false }
+    isHistoryNavigation: false,
+    isHistoryNavigation: false,
+    signal: AbortSignal { aborted: false }
+  }
+}
+ PUT /api/client 200 in 19ms
+ ✓ Compiled in 331ms (274 modules)
+ ✓ Compiled /api/client/[id] in 148ms (312 modules)
+{
+  request: Request {
+    method: 'DELETE',
+    url: 'http://localhost:3000/api/client/4',
+    headers: Headers {
+      accept: '*/*',
+      'accept-encoding': 'gzip, deflate',
+      'accept-language': '*',
+      connection: 'keep-alive',
+      'content-length': '35',
+      'content-type': 'application/json',
+      host: 'localhost:3000',
+      'sec-fetch-mode': 'cors',
+      'user-agent': 'node',
+      'x-forwarded-for': '::1',
+      'x-forwarded-host': 'localhost:3000',
+      'x-forwarded-port': '3000',
+      'x-forwarded-proto': 'http'
+    },
+    destination: '',
+    referrer: 'about:client',
+    referrerPolicy: '',
+    mode: 'cors',
+    credentials: 'same-origin',
+    cache: 'default',
+    redirect: 'follow',
+    integrity: '',
+    keepalive: false,
+    isReloadNavigation: false,
+    isHistoryNavigation: false,
+    signal: AbortSignal { aborted: false }
+  },
+  params: { id: '4' }
+}
+ DELETE /api/client/4 200 in 289ms
+Response {
+  status: 200,
+  statusText: '',
+  headers: Headers {
+    connection: 'keep-alive',
+    'content-type': 'application/json',
+    date: 'Wed, 17 Jul 2024 08:16:46 GMT',
+    'keep-alive': 'timeout=5',
+    'transfer-encoding': 'chunked',
+    vary: 'RSC, Next-Router-State-Tree, Next-Router-Prefetch'
+  },
+  body: ReadableStream { locked: false, state: 'readable', supportsBYOB: true },
+  bodyUsed: false,
+  ok: true,
+  redirected: false,
+  type: 'default',
+  url: 'http://localhost:3000/api/client/4'
+}
+{
+  request: Request {
+    method: 'DELETE',
+    url: 'http://localhost:3000/api/client/4',
+    headers: Headers {
+      accept: '*/*',
+      'accept-encoding': 'gzip, deflate',
+      'accept-language': '*',
+      connection: 'keep-alive',
+      'content-length': '35',
+      'content-type': 'application/json',
+      host: 'localhost:3000',
+      'sec-fetch-mode': 'cors',
+      'user-agent': 'node',
+      'x-forwarded-for': '::1',
+      'x-forwarded-host': 'localhost:3000',
+      'x-forwarded-port': '3000',
+      'x-forwarded-proto': 'http'
+    },
+    destination: '',
+    referrer: 'about:client',
+    referrerPolicy: '',
+    mode: 'cors',
+    credentials: 'same-origin',
+    cache: 'default',
+    redirect: 'follow',
+    integrity: '',
+    keepalive: false,
+    isReloadNavigation: false,
+    isHistoryNavigation: false,
+    signal: AbortSignal { aborted: false }
+  },
+  params: { id: '4' }
+}
+ DELETE /api/client/4 200 in 58ms
+Response {
+  status: 200,
+  statusText: '',
+  headers: Headers {
+    connection: 'keep-alive',
+    'content-type': 'application/json',
+    date: 'Wed, 17 Jul 2024 08:16:46 GMT',
+    'keep-alive': 'timeout=5',
+    'transfer-encoding': 'chunked',
+    vary: 'RSC, Next-Router-State-Tree, Next-Router-Prefetch'
+  },
+  body: ReadableStream { locked: false, state: 'readable', supportsBYOB: true },
+  bodyUsed: false,
+  ok: true,
+  redirected: false,
+  type: 'default',
+  url: 'http://localhost:3000/api/client/4'
+}
